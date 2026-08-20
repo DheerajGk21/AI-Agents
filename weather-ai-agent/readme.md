@@ -9,7 +9,7 @@
 3. Install **Google Gen AI, Requests and Python Dotenv** library.  
 ``` >> pip install google-genai requests python-dotenv ```
 
-5. Create an Environment file **.env** in **/src** with API key.
+5. Create an Environment file **.env** in **/src** with API key.  
 ``` GEMINI_API_KEY=your_api_key_here ```  
 
 6. Create a Weather Tool to fetch weather data. This is a python code. File : **weather.py**.  
