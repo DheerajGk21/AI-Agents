@@ -17,3 +17,6 @@
 7. Run the agent : ``` >> python weatherAgent.py ```
 
 8. Sample input : ``` >> You : Weather in Mysuru, Karnataka ? ``` 
+
+\
+9. ![Architecture](architecture.png)
