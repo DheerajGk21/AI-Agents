@@ -33,5 +33,5 @@ RAG agent helps in retriving information from document.
 ![Snapshot_2](Snapshot_2.png)
 
 ## Architecture
-![Architecture](architecture.png)
+![Architecture](Architecture.png)
 
